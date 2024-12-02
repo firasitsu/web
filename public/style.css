@@ -1,0 +1,29 @@
+/* Style global pour le tableau */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+td img {
+    width: 100px;
+    height: auto;
+    border-radius: 4px;
+}
+
+td {
+    font-size: 16px;
+    color: #555;
+}
